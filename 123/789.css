@@ -1,0 +1,46 @@
+body{
+    background-color:lightcyan;
+}
+
+h1{
+    font-size:30pt;
+    font-style:PMingLiU;
+}
+
+a{
+    color:mediumpurple; 
+    text-decoration-color:lightcyan; 
+}
+
+a:link{
+    color:rgb(223, 26, 190);
+}
+
+a:visited{
+    color:peru;
+}
+
+a:hover{
+    color:midnightblue
+}
+
+a:active{
+    color:rgb(0, 255, 85);
+}
+
+.haha{
+    background-color:rgb(132, 132, 196);
+}
+
+.pog{
+margin-top: 5px;
+margin-right: auto;
+margin-bottom: 20px;
+margin-left: 10%;
+border-style: double;
+border-color: rgb(224, 18, 173);
+}
+
+.unpog{
+    margin: 50px 100px 50px 3.5cm;
+}

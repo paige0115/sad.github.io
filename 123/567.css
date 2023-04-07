@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 241, 248);
+   
+}
+
+h1{
+    color: blueviolet;
+    background-color:rgb(216, 183, 247) ;
+    font-size: 30pt;
+    
+}
+
+h2{
+    color:rgb(60, 89, 219);
+    font-size: 25pt;
+}
+
+h3{
+    color: dodgerblue;
+    font-size: 20pt;
+}
+p{
+    color: rgb(172, 71, 192);
+    font-size: 17pt;
+    
+}
+
+ul{
+    color: rgb(223, 109, 213);
+    font-size: 15pt;
+    
+}
+
+.pog{
+    border-style: double;
+
+}
+/*設計網頁可以改字體顏色大小、加表格之類的*/
+/*id選擇器要加'#' class選擇器要加'.'*/
